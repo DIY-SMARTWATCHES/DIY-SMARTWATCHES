@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DIY-SMARTWATCHES
-- 👀 I’m interested in programming & building
 - 📫 How to reach me community.watchx.io (watchX_and_robots)
 
 <!---
